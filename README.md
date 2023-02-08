@@ -1,3 +1,3 @@
-First Application on GitHub
+First Java Application
 
 Simple Java Web Application Only
